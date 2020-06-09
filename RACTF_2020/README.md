@@ -1,6 +1,10 @@
 # Really Awesome CTF 2020
 
+Write-ups of Web challenges
+
 # Web
+
+![web chall](/RACTF_2020/RACTF.png)
 
 ## C0llide
 ```
