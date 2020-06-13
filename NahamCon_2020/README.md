@@ -1,6 +1,8 @@
 # NahamCon CTF 2020
 
-Finished 157th on 2854 with 2060 points
+June 12th 8:00 AM PDT - June 13th - 3:00 PM PDT 31-Hour Competition
+
+**Finished 157th on 2854 with 2060 points**
 
 ## Write-ups by categories:
 
