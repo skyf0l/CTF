@@ -1,5 +1,7 @@
 # NoobCTF 0x1 2020
 
+Tue, 09 June 2020, 12:30 CEST — Wed, 10 June 2020, 07:30 CEST
+
 ## Crypto
 
 ### WhatThe#
