@@ -1,5 +1,7 @@
 # Really Awesome CTF 2020
 
+Fri, 05 June 2020, 19:00 CEST — Tue, 09 June 2020, 19:00 CEST
+
 Write-ups of Web challenges
 
 # Web
