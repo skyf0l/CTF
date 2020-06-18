@@ -5,6 +5,8 @@ Some wrrite-ups
 
 Mon, 15 June 2020, 17:30 CEST — Wed, 17 June 2020, 17:30 CEST
 
+**Ranked 155th on 2854 with 810 points**
+
 [Write-ups](Zh3r0CTF_2020/README.md)
 
 ## NahamCon CTF 2020
