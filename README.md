@@ -1,6 +1,16 @@
 # CTF
 Some wrrite-ups
 
+## RedPwnCTF 2 2020
+
+Sun, 21 June 2020, 22:00 CEST — Thu, 25 June 2020, 22:00 CEST
+
+**Ranked 174th on 1494**
+
+**Ranked 21st on 142 in High School division**
+
+[Write-ups](RedPwnCTF_2_2020/README.md)
+
 ## Zh3r0 CTF 2020
 
 Mon, 15 June 2020, 17:30 CEST — Wed, 17 June 2020, 17:30 CEST
