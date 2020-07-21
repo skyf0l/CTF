@@ -1,5 +1,13 @@
 # CTF
-Some wrrite-ups
+Some write-ups
+
+## CsiCTF 2020
+
+Fri, 17 July 2020, 20:30 CEST — Tue, 21 July 2020, 20:30 CEST
+
+**Ranked 304th on 1009**
+
+[Write-ups](CSICTF_2020/README.md)
 
 ## RedPwnCTF 2 2020
 
