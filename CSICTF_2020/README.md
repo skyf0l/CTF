@@ -18,4 +18,3 @@ Fri, 17 July 2020, 20:30 CEST — Tue, 21 July 2020, 20:30 CEST
 * [Linux](Linux.md)
   - [AKA](Linux.md#aka)
   - [find32](Linux.md#find32)
-  - [AKA](Linux.md#aka)
