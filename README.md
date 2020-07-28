@@ -1,6 +1,14 @@
 # CTF
 Some wrrite-ups
 
+## CyBRICS CTF 2020
+
+Sat, 25 July 2020, 12:00 CEST — Sun, 26 July 2020, 12:00 CEST
+
+**Ranked 462th on 786**
+
+[Write-ups](CyBRICS/README.md)
+
 ## RedPwnCTF 2 2020
 
 Sun, 21 June 2020, 22:00 CEST — Thu, 25 June 2020, 22:00 CEST
