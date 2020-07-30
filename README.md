@@ -15,7 +15,7 @@ Sat, 25 July 2020, 12:00 CEST — Sun, 26 July 2020, 12:00 CEST
 
 **Ranked 462th on 786**
 
-[Write-ups](CyBRICS/README.md)
+[Write-ups](CyBRICS_2020/README.md)
 
 ## RedPwnCTF 2 2020
 
