@@ -1,6 +1,6 @@
 # SunshineCTF 2020
 
-sam, 07 nov. 2020, 14:00 UTC — lun, 09 nov. 2020, 14:00 UTC
+Sat, 07 Nov. 2020, 14:00 UTC — Mon, 09 Nov. 2020, 14:00 UTC
 
 # Web
 
