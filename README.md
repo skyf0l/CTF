@@ -1,6 +1,14 @@
 # CTF
 Some write-ups
 
+## SunshineCTF 2020
+
+Sat, 07 Nov. 2020, 14:00 UTC — Mon, 09 Nov. 2020, 14:00 UTC
+
+**Ranked 169th on 742**
+
+[Write-ups](SunshineCTF_2020/README.md)
+
 ## CsiCTF 2020
 
 Fri, 17 July 2020, 20:30 CEST — Tue, 21 July 2020, 20:30 CEST
