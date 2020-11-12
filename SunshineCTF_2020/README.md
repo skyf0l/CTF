@@ -41,6 +41,9 @@ Password: 1azertyAZERTY???2🤬
 Password: 1//azertyAZERTY???2🤬
 -> Error: Password's MD5 hash must start with a number.
 
+Password: 1//azertyAZERTY???2🤬🤬
+-> Error: Password must be a palindrome.
+
 Password: 1//azeRTY🤬🤬🤬🤬🤬YTReza//1
 -> Flag: sun{Pal1ndr0m1c_EcMaScRiPt}
 ```
