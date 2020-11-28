@@ -1,6 +1,16 @@
 # CTF
 Some write-ups
 
+## DG'hAck 2020
+
+Thu, 12 Nov. 2020 — Fri, 27 Nov. 2020
+
+**Ranked 57th on 2061 (647 with more tah 0 points)**
+
+**Ranked 30th on 1212 (348 with more than 0 points) in student division**
+
+[Write-ups](DGhAck_2020/README.md)
+
 ## SunshineCTF 2020
 
 Sat, 07 Nov. 2020, 14:00 UTC — Mon, 09 Nov. 2020, 14:00 UTC
