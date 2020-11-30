@@ -13,7 +13,7 @@ data.pcap 1.53kB
 sha256: b34fc04418320941838c268e36b84ce9ccc5abdf7088c773a577367e0fe49012
 ```
 
-All trames are exactly same except the 
+All trames are exactly same except the time between them:
 ```
 $ tshark -r data.pcap
     1   0.000000 192.168.0.14 → 192.168.0.254 ICMP 42 Echo (ping) request  id=0x0000, seq=0/0, ttl=64
