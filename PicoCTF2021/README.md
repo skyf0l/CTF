@@ -209,6 +209,8 @@ With `admi'||CHAR(` as username and `-0+110)||'` as password, the query is trans
 
 `' AND password='-0+110` is `110`, `CHAR(110)` is `'n'`, and `'admi'||'n'||''` is `'admin'`
 
+The final query looks like: `SELECT username, password FROM users WHERE username='admin'`
+
 We are logged in and we get the flag!
 
 The flag is: `picoCTF{0n3_m0r3_t1m3_d5a91d8c2ae4ce567c2e8b8453305565}`
