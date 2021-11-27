@@ -1,6 +1,14 @@
 # CTF
 Some write-ups
 
+## UniCTF Quals 2021
+
+Fri, 19 Mov. 2021 — Sun, 21 Mov. 2021
+
+**Ranked 21th on 594**
+
+[Write-ups](UniCTF_Quals_2021/README.md)
+
 ## PicoCTF 2020
 
 Tue, 16 Mar. 2021 — Tue, 30 Mar. 2021
