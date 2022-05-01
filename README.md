@@ -1,5 +1,14 @@
 # CTF
+
 Some write-ups
+
+## PicoCTF 2022
+
+Tue, 15 Mar. 2022 — Tue, 29 Mar. 2022
+
+**Ranked 290th on 7800 with 11500 points**
+
+[Write-ups](PicoCTF2022/README.md)
 
 ## UniCTF Quals 2021
 
@@ -9,7 +18,7 @@ Fri, 19 Mov. 2021 — Sun, 21 Mov. 2021
 
 [Write-ups](UniCTF_Quals_2021/README.md)
 
-## PicoCTF 2020
+## PicoCTF 2021
 
 Tue, 16 Mar. 2021 — Tue, 30 Mar. 2021
 
